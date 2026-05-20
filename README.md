@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Laboratório de Algoritmos e Estruturas de Dados (LAED)
 
 **ALuno:** José Arthur Rats da Ressurreição
@@ -26,6 +25,3 @@ O projeto está organizado por tópicos para facilitar a navegação:
 ## Resolução de questões
 
 Lista 1 -> [Clique aqui](Lista_1/README.md)
-=======
-# LAED-UFCA
->>>>>>> 49492142a199302f8ccd8e40a8938a08b101fa81
