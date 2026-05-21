@@ -7,3 +7,6 @@ A seguir, está anexado os *scripts.py* da resolução da lista 1.
 * [Ex_03](Exercicios/Ex_03.py)
 * [Ex_04](Exercicios/Ex_04.py)
 * [Ex_05](Exercicios/Ex_05.py)
+* [Ex_06](Exercicios/Ex_06.py)
+* [Ex_07](Exercicios/Ex_07.py)
+* [Ex_08](Exercicios/Ex_08.py)
