@@ -1,3 +1,5 @@
+# → Encontrar o segundo maior n´umero ´ımpar armazenado na lista — (se ele existir)
+
 v = [9,42,21,14,28,3,19,32,46,6]
 
 v = [9,42,21,14,28,3,19,32,46,6]

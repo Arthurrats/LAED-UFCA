@@ -1,3 +1,5 @@
+# → Encontrar o maior n´umero ´ımpar armazenado na lista — (se houver algum)
+
 v = [9,42,21,14,28,3,19,32,46,6]
 
 i = 0

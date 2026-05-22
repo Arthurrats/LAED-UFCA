@@ -1,3 +1,6 @@
+# → Encontrar os dois elementos da lista L que possuem a menor diferen¸ca entre si
+# — (em valor absoluto)
+
 v = [9,2,7,7,2,2,1,7,7,9]
 v1 = 0
 v2 = 0

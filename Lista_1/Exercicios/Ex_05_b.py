@@ -1,3 +1,6 @@
+# Verificar se existem dois elementos na lista L tais que
+# um deles é o dobro do outro
+
 v = [9,42,21,144,25,3,19,33,45,6]
 i = 0
 

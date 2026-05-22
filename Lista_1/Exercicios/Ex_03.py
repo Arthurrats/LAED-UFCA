@@ -1,3 +1,6 @@
+# → Procurar o n´umero k na lista L, e se ele não estiver lá
+# retornar o elemento da lista com o valor mais próximo de k
+
 v = [9,42,21,14,25,3,19,33,45,6]
 
 k = 31

@@ -1,3 +1,6 @@
+# → Verificar se existe algum número ímpar
+# que aparece um número ímpar de vezes na lista
+
 v = [9,2,7,7,2,2,1,7,7,9]
 
 i = 0
