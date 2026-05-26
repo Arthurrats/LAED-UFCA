@@ -20,8 +20,11 @@ O projeto está organizado por tópicos para facilitar a navegação:
 ```text
 ├── Lista 1/               # Atividades da primeira unidade
 │   └── Exercicios/          # Listas I de exercícios 
+├── Lista 2/               # Atividades da segunda unidade
+│   └── Exercicios/          # Listas II de exercícios 
 └── README.md                # Documentação do repositório
 ```
 ## Resolução de questões
 
-Lista 1 -> [Clique aqui](Lista_1/README.md)
+* Lista 1 -> [Clique aqui](Lista_1/README.md)
+* Lista 2 -> [Clique aqui](Lista_2/README.md)
